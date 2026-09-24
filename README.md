@@ -470,6 +470,7 @@
 - [**Mermaid Live Editor**](https://mermaid.live/) — In-browser rendering. Share via URL. Export PNG, SVG. Open-source.
 - [**Draw.io**](https://app.diagrams.net/) — Browser and desktop. Local file storage, Google Drive, GitHub, GitLab. Open-source.
 - [**Excalidraw**](https://excalidraw.com/) — Browser-based. Real-time collaboration. Open-source.
+- [**FlowViz**](https://flowviz.app/) — Browser-based Mermaid editor. Live preview for all Mermaid v11 diagram types, two-way visual editing for flowcharts. Export SVG, PNG. Share via URL. No account; diagrams stored in browser localStorage. License: Proprietary (free).
 - [**D2 Playground**](https://play.d2lang.com/) — In-browser D2 diagram editor.
 - [**PlantText**](https://www.planttext.com/) — Browser-based PlantUML editor.
 - [**Kroki**](https://kroki.io/) — REST API: `POST /{type}` returns rendered diagram. Self-hostable. Open-source.
