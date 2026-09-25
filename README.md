@@ -469,6 +469,7 @@
 
 - [**Mermaid Live Editor**](https://mermaid.live/) — In-browser rendering. Share via URL. Export PNG, SVG. Open-source.
 - [**Draw.io**](https://app.diagrams.net/) — Browser and desktop. Local file storage, Google Drive, GitHub, GitLab. Open-source.
+- [**Drawbly**](https://drawbly.com/) — Browser canvas for freehand technical diagrams with editable text; no signup, local drafts, credited PNG export. License: proprietary.
 - [**Excalidraw**](https://excalidraw.com/) — Browser-based. Real-time collaboration. Open-source.
 - [**D2 Playground**](https://play.d2lang.com/) — In-browser D2 diagram editor.
 - [**PlantText**](https://www.planttext.com/) — Browser-based PlantUML editor.
