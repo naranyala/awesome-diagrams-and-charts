@@ -475,6 +475,7 @@
 - [**Kroki**](https://kroki.io/) — REST API: `POST /{type}` returns rendered diagram. Self-hostable. Open-source.
 - [**Observable**](https://observablehq.com/) — Notebook environment. Reactive dataflow. D3.js integration. Free tier available.
 - [**RAWGraphs**](https://rawgraphs.io/) — Drag-and-drop mapping. Exports to SVG. Open-source.
+- [**RelationCanvas**](https://relationcanvas.com/) — Browser-based editor for character relationship charts: cards connected by directed, labeled arrows, one per direction. Export PNG, SVG. No account.
 - [**CodePen**](https://codepen.io/) — Front-end playground. D3.js, Chart.js examples.
 - [**JSFiddle**](https://jsfiddle.net/) — Online code editor for HTML/CSS/JS.
 - [**StackBlitz**](https://stackblitz.com/) — Online VS Code environment. Supports React/Vue/Angular chart projects.
