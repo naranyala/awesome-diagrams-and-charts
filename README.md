@@ -508,6 +508,7 @@
 - [**Frappe Gantt**](https://frappe.io/gantt) — SVG Gantt charts. Drag-to-resize, dependency lines. License: MIT.
 - [**Mermaid Gantt**](https://mermaid.js.org/syntax/gantt.html) — Gantt from markdown-like text.
 - [**Gantt-elastic**](https://github.com/neuronetio/gantt-elastic) — JavaScript Gantt with Vue.js integration. License: MIT.
+- [**Paceflow Gantt Chart Generator**](https://www.paceflow.io/gantt-chart-generator) — Free browser-based Gantt chart editor with draggable milestones and PNG export. License: proprietary.
 
 ### Mind Maps & Concept Maps
 
